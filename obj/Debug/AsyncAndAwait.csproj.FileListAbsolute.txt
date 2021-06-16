@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\AsyncAndAwait\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe.config
+C:\Users\lenovo\source\repos\AsyncAndAwait\AsyncAndAwait\bin\Debug\AsyncAndAwait.exe
+C:\Users\lenovo\source\repos\AsyncAndAwait\AsyncAndAwait\bin\Debug\AsyncAndAwait.pdb
+C:\Users\lenovo\source\repos\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.exe
+C:\Users\lenovo\source\repos\AsyncAndAwait\AsyncAndAwait\obj\Debug\AsyncAndAwait.pdb
